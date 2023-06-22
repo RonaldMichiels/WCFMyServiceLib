@@ -1,0 +1,7 @@
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\bin\Debug\WCFMyServiceLib.dll.config
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\bin\Debug\WCFMyServiceLib.dll
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\bin\Debug\WCFMyServiceLib.pdb
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\obj\Debug\WCFMyServiceLib.csproj.AssemblyReference.cache
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\obj\Debug\WCFMyServiceLib.csproj.CoreCompileInputs.cache
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\obj\Debug\WCFMyServiceLib.dll
+T:\_Repositories\WCFMyServiceLib\WCFMyServiceLib\obj\Debug\WCFMyServiceLib.pdb
